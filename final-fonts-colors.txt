@@ -1,0 +1,10 @@
+Blue: #61A6DB;
+Orange: #E34025;
+Grey-light: #EFEFE8;
+Grey-medium: #5D5D5D;
+Grey-dark: #3A3A3A;
+
+
+Fonts:
+Oxygen (Medium & Bold)
+Dancing Script (Branding Only)
